@@ -1,0 +1,34 @@
+ISBN: 0471178594
+Title: Electric Power Systems: A Conceptual Introduction (Wiley Survival Guides in Engineering and Science)
+Author: Alexandra von Meier
+Publisher: Wiley-IEEE Press
+Publication Date: 2006-07-11
+Number Of Pages: 309
+
+Electric Power Systems explains and illustrates how the electric grid works in a clear, straightforward style that makes highly technical material accessible. It begins with a thorough discussion of the underlying physical concepts of electricity, circuits, and complex power that serves as a foundation for more advanced material. Readers are then introduced to the main components of electric power systems, including generators, motors and other appliances, and transmission and distribution equipment such as power lines, transformers, and circuit breakers. The author explains how a whole power system is managed and coordinated, analyzed mathematically, and kept stable and reliable.
+
+Recognizing the economic and environmental implications of electric energy production and public concern over disruptions of service, this book exposes the challenges of producing and delivering electricity to help inform public policy decisions. Its discussions of complex concepts such as reactive power balance, load flow, and stability analysis, for example, offer deep insight into the complexity of electric grid operation and demonstrate how and why physics constrains economics and politics.
+
+Although this survival guide includes mathematical equations and formulas, it discusses their meaning in plain English and does not assume any prior familiarity with particular notations or technical jargon. Additional features include:
+
+* A glossary of symbols, units, abbreviations, and acronyms
+* Illustrations that help readers visualize processes and better understand complex concepts
+* Detailed analysis of a case study, including a Web reference to the case, enabling readers to test the consequences of manipulating various parameters
+
+With its clear discussion of how electric grids work, Electric Power Systems is appropriate for a broad readership of professionals, undergraduate and graduate students, government agency managers, environmental advocates, and consumers.
+
+About the Author
+ALEXANDRA von MEIER, PhD, is Associate Professor in the Department of Environmental Studies and Planning and Director of the Environmental Technology Center at Sonoma State University. An award-winning educator, Dr. von Meier teaches courses in energy management and design that address science, technology, policy, economics, and environmental issues, emphasizing energy efficiency and renewable resources
+
+
+
+1 The physics of electricity 1
+2 Basic circuit analysis 30
+3 AC power 49
+4 Generators 85
+5 Loads 127
+6 Transmissions and distribution 144
+7 Power flow analysis 195
+8 System performance 229
+9 System operation, management, and new technology 259
+App Symbols, units, abbreviations, and acronyms

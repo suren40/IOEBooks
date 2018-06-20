@@ -1,0 +1,17 @@
+
+Electric Power Distribution Equipment and Systems
+By Thomas Allen Short
+* Publisher: CRC
+* Number Of Pages: 344
+* Publication Date: 2005-11-29
+* ISBN / ASIN: 0849395763
+Practitioner Short has selected chapters from Electric Power Distribution Handbook to create this concise, focused reference on the technologies and infrastructure necessary for power distribution along vast distances as well as to local customers. Topics of those chapters include the fundamentals of distribution systems, including urban networks, distribution substations, and differences between European and North American systems; overhead lines, including typical constructions, simplified line impedance calculations, and fault withstanding capacity; underground distribution, including applications, cables, cable testing and fault location; transformers, including single-phase, three-phase, special transformers and loadings; voltage regulation, including techniques, regulators and station regulation; and capacitor application, including reducing line losses and caring for failure and case ruptures.
+
+
+1 Fundamentals of distribution systems 1
+2 Overhead lines 33
+3 Underground distribution 91
+4 Transformers 159
+5 Voltage regulation 233
+6 Capacitor application 269
+

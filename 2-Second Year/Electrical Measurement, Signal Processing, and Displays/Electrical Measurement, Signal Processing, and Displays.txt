@@ -1,0 +1,59 @@
+
+ISBN: 0849317339
+Title: Electrical Measurement, Signal Processing, and Displays
+Author: By John G. Webster
+Publisher: CRC
+Publication Date: 2003-07-15
+Number Of Pages: 768
+
+The CRC Principles and Applications in Engineering series is a library of convenient, economical references sharply focused on particular engineering topics and subspecialties. Each volume in the series comprises chapters carefully selected from CRC's bestselling handbooks, logically organized for optimum convenience, and thoughtfully priced to fit every budget.
+
+Electrical Measurement, Signal Processing, and Displays describes the use of instruments and techniques for practical measurement of electromagnetic variables, signal processing equipment and parameters, and various types of displays, from cathode ray tubes to LED devices. For this volume, chapters relevant to these topics were culled from the bestselling Measurement, Instrumentation, and Sensors Handbook and revised by their original authors to bring them thoroughly up to date.
+
+This is a concise, well-illustrated, and highly practical reference. It sets forth the principles, formulas, and equations engineers and scientists need for solving the instrumentation and measurement questions they encounter in practice, particularly when problems arise in areas outside their own specialties.
+
+*Chapters logically organized by measurement problem and contributed by an international panel of experts
+
+*Information presented on three levels: basic exposition for newcomers to the field; a detailed discussion and mathematical treatment; and advanced applications, evaluations, and directions for future study
+
+*A full set of references in each chapter
+
+
+
+1 Voltage Measurement 
+2 Current Measurement 
+3 Power Measurement 
+4 Power Factor Measurement 
+5 Phase Measurement 
+6 Energy Measurement 
+7 Electrical Conductivity and Resistivity 
+8 Charge Measurement 
+9 Capacitance and Capacitance Measurements 
+10 Permittivity Measurement 
+11 Electric Field Strength 
+12 Magnetic Field Measurement 
+13 Permeability and Hysteresis Measurement 
+14 Inductance Measurement 
+15 Immittance Measurement 
+16 Q Factor Measurement 
+17 Distortion Measurement 
+18 Noise Measurement 
+19 Microwave Measurement 
+20 Amplifiers and Signal Conditioners 
+21 Modulation 
+22 Filters 
+23 Spectrum Analysis and Correlation 
+24 Applied Intelligence Processing 
+25 Analog-to-Digital Converters 
+26 Computers 
+27 Telemetry 
+28 Sensor Networks and Communication 
+29 Electromagnetic Compatibility 
+30 Human Factors in Displays 
+31 Cathode Ray Tube Displays 
+32 Liquid Crystal Displays 
+33 Plasma-Driven Flat Panel Displays 
+34 Electroluminescent Displays 
+35 Light-Emitting Diode Displays 
+36 Reading/Recording Devices
+

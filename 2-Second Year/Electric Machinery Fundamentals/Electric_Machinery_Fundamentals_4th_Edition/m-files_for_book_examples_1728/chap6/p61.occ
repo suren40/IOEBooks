@@ -1,0 +1,41 @@
+% This is the open-circuit characteristic shown
+% in Figure P6-1.  The first column is the field 
+% current in amps, and the second column is the
+% open-circuit terminal voltage in volts.  To use
+% this file in MATLAB, type "load p61.occ".  The
+% data will be loaded into an N x 2 array named
+% p61, with the first column containing If and the
+% second column containing the open-circuit voltage.
+% MATLAB function "interp1" can be used to recover
+% a value from this curve.
+   0        0
+   0.333  210
+   0.666  420
+       1  630
+   1.333  844
+   1.666  1053
+       2  1255
+   2.333  1447
+   2.666  1629
+       3  1791
+   3.333  1942
+   3.666  2078
+       4  2202
+   4.333  2310
+   4.666  2408
+       5  2490
+   5.333  2562
+   5.666  2622
+       6  2672
+   6.333  2712
+   6.666  2746
+       7  2773
+   7.333  2795
+   7.666  2813
+       8  2830
+   8.333  2844
+   8.666  2857
+       9  2869
+   9.333  2881
+   9.666  2890
+      10  2900
